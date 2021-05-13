@@ -4,4 +4,6 @@
 
 public class Main(){
     Feature f = new Feature();
+    //Esto lo hago en feature_a
+    System.err.print("error");
 }
