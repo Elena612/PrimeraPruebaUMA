@@ -3,5 +3,5 @@
 //Tercera linea de codigo
 
 public class Main(){
-    
+    Feature f = new Feature();
 }
