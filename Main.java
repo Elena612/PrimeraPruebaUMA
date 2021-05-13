@@ -4,7 +4,6 @@
 
 public class Main(){
     Feature f = new Feature();
-    //Esto lo hago en master 
-    String s= f.toString();
-    System.out.println(s);
+    System.out.println(f);
+
 }
